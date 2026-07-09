@@ -61,7 +61,7 @@ Follow these steps to run the project locally on your machine.
 
 5.  **Start the Server:**
     ```bash
-    npm run start:dev
+    npm run dev
     ```
     The server will start running on `http://localhost:5000`.
 
